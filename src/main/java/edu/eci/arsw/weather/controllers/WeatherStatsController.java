@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/weather")
+@RequestMapping("/api")
 public class WeatherStatsController {
     @Autowired
     private IWeatherStatsService weatherStatsS;
