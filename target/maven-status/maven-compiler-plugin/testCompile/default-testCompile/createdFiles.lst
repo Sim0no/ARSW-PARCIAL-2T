@@ -1,0 +1,9 @@
+edu\eci\arsw\weather\entities\Coordinates.class
+edu\eci\arsw\weather\entities\Stats.class
+edu\eci\arsw\weather\WeatherApplicationTests.class
+edu\eci\arsw\weather\service\IWeatherStatsService.class
+edu\eci\arsw\weather\entities\Clouds.class
+edu\eci\arsw\weather\entities\Weather.class
+edu\eci\arsw\weather\entities\Wind.class
+edu\eci\arsw\weather\service\IHttpConnectionService.class
+edu\eci\arsw\weather\entities\City.class
